@@ -159,16 +159,6 @@
       "icono": "rocket-launch-outline",
       "color": "#FFB612",
       "tipo": "internacionales"
-    },
-    {
-      "nombre": "Aeroméxico",
-      "vuelos": [
-        "592",
-        "593"
-      ],
-      "icono": "airplane-marker",
-      "color": "#002244",
-      "tipo": "internacionales"
     }
   ]
 }
