@@ -41,29 +41,6 @@
       "tipo": "nacionales"
     },
     {
-      "nombre": "American Airlines",
-      "vuelos": [
-        "163",
-        "172",
-        "342"
-      ],
-      "icono": "flag-outline",
-      "color": "#0078D2",
-      "tipo": "internacionales"
-    },
-    {
-      "nombre": "Mexicana",
-      "vuelos": [
-        "1780",
-        "1781",
-        "1782",
-        "1783"
-      ],
-      "icono": "white-balance-sunny",
-      "color": "#006341",
-      "tipo": "nacionales"
-    },
-    {
       "nombre": "Air Canada",
       "vuelos": [
         "1854",
