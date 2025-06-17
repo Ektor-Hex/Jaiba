@@ -3,6 +3,7 @@
     {
       "nombre": "Delta Airlines",
       "vuelos": [
+        "579",
         "608",
         "1772",
         "1773",
@@ -25,14 +26,13 @@
         "9360",
         "9362"
       ],
-      "icono": "flight-takeoff",
+      "icono": "airplane-takeoff",
       "color": "#7BC143",
       "tipo": "nacionales"
     },
     {
       "nombre": "Air Transat",
       "vuelos": [
-        "620",
         "340"
       ],
       "icono": "earth",
