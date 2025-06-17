@@ -1,6 +1,13 @@
 {
   "aerolineas": [
     {
+      "nombre": "Delta Airlines",
+      "vuelos": ["579", "608", "1773", "1892"],
+      "icono": "airplane",
+      "color": "#E31837",
+      "tipo": "internacionales"
+    },
+    {
       "nombre": "Viva",
       "vuelos": ["7240", "4212", "9360", "9362", "7424"],
       "icono": "airplane-takeoff",
