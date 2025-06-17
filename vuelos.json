@@ -2,100 +2,172 @@
   "aerolineas": [
     {
       "nombre": "Delta Airlines",
-      "vuelos": ["579", "608", "1773", "1892"],
+      "vuelos": [
+        "579",
+        "608",
+        "1772",
+        "1773",
+        "1892"
+      ],
       "icono": "airplane",
       "color": "#E31837",
       "tipo": "internacionales"
     },
     {
       "nombre": "Viva",
-      "vuelos": ["7240", "4212", "9360", "9362", "7424"],
-      "icono": "airplane-takeoff",
+      "vuelos": [
+        "4212",
+        "4213",
+        "4313",
+        "7240",
+        "7241",
+        "7424",
+        "7446",
+        "9360",
+        "9362"
+      ],
+      "icono": "flight-takeoff",
       "color": "#7BC143",
       "tipo": "nacionales"
     },
     {
       "nombre": "Air Transat",
-      "vuelos": ["620", "340"],
+      "vuelos": [
+        "620",
+        "340"
+      ],
       "icono": "earth",
       "color": "#2F6EB6",
       "tipo": "internacionales"
     },
     {
       "nombre": "Aeroméxico Connect",
-      "vuelos": ["592", "594"],
-      "icono": "compass",
+      "vuelos": [
+        "592",
+        "594"
+      ],
+      "icono": "airplane-marker",
       "color": "#0B2343",
       "tipo": "nacionales"
     },
     {
       "nombre": "American Airlines",
-      "vuelos": ["172", "163"],
-      "icono": "star",
+      "vuelos": [
+        "163",
+        "172",
+        "342"
+      ],
+      "icono": "flag-outline",
       "color": "#0078D2",
       "tipo": "internacionales"
     },
     {
       "nombre": "Mexicana",
-      "vuelos": ["1780", "1782"],
+      "vuelos": [
+        "1780",
+        "1781",
+        "1782",
+        "1783"
+      ],
       "icono": "white-balance-sunny",
       "color": "#006341",
       "tipo": "nacionales"
     },
     {
       "nombre": "Air Canada",
-      "vuelos": ["1854", "1874", "1808", "1814"],
-      "icono": "cloud",
+      "vuelos": [
+        "1854",
+        "1874",
+        "1808",
+        "1814"
+      ],
+      "icono": "leaf",
       "color": "#D82F2F",
       "tipo": "internacionales"
     },
     {
       "nombre": "Westjet Airlines",
-      "vuelos": ["2034", "2320"],
-      "icono": "weather-sunset-up",
+      "vuelos": [
+        "2034",
+        "2320"
+      ],
+      "icono": "weather-partly-cloudy",
       "color": "#0F5CA2",
       "tipo": "internacionales"
     },
     {
       "nombre": "United Airlines",
-      "vuelos": ["1950", "2031", "1600"],
-      "icono": "weather-sunset-down",
+      "vuelos": [
+        "365",
+        "366",
+        "1600",
+        "1601",
+        "1950",
+        "2031"
+      ],
+      "icono": "cloud-upload-outline",
       "color": "#002244",
       "tipo": "internacionales"
     },
     {
       "nombre": "JetBlue Airways",
-      "vuelos": ["2879"],
-      "icono": "weather-windy",
+      "vuelos": [
+        "2879"
+      ],
+      "icono": "airplane-alert",
       "color": "#0033A0",
       "tipo": "internacionales"
     },
     {
       "nombre": "Volaris",
-      "vuelos": ["1400"],
-      "icono": "palm-tree",
+      "vuelos": [
+        "1400",
+        "1401"
+      ],
+      "icono": "airplane-landing",
       "color": "#9B26B6",
       "tipo": "nacionales"
     },
     {
       "nombre": "Sunwing Airlines",
-      "vuelos": ["2789", "2589", "2189", "9290"],
-      "icono": "star-shooting",
+      "vuelos": [
+        "2789",
+        "2589",
+        "2189",
+        "9290"
+      ],
+      "icono": "weather-sunset",
       "color": "#F9A51A",
       "tipo": "internacionales"
     },
     {
       "nombre": "Avianca",
-      "vuelos": ["AV94"],
-      "icono": "bird",
+      "vuelos": [
+        "94",
+        "AV94",
+        "95"
+      ],
+      "icono": "airplane-clock",
       "color": "#D3212C",
       "tipo": "internacionales"
     },
     {
       "nombre": "Discover Airlines",
-      "vuelos": ["12"],
-      "icono": "rocket",
+      "vuelos": [
+        "12"
+      ],
+      "icono": "rocket-launch-outline",
       "color": "#FFB612",
+      "tipo": "internacionales"
+    },
+    {
+      "nombre": "Aeroméxico",
+      "vuelos": [
+        "592",
+        "593"
+      ],
+      "icono": "airplane-marker",
+      "color": "#002244",
       "tipo": "internacionales"
     }
   ]
