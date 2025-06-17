@@ -31,15 +31,6 @@
       "tipo": "nacionales"
     },
     {
-      "nombre": "Air Transat",
-      "vuelos": [
-        "340"
-      ],
-      "icono": "earth",
-      "color": "#2F6EB6",
-      "tipo": "internacionales"
-    },
-    {
       "nombre": "Aeroméxico Connect",
       "vuelos": [
         "592",
