@@ -122,7 +122,7 @@
       "nombre": "Volaris",
       "vuelos": [
         "1400",
-        "1401"
+        "4054"
       ],
       "icono": "airplane-landing",
       "color": "#9B26B6",
@@ -143,9 +143,7 @@
     {
       "nombre": "Avianca",
       "vuelos": [
-        "94",
-        "AV94",
-        "95"
+        "94"
       ],
       "icono": "airplane-clock",
       "color": "#D3212C",
