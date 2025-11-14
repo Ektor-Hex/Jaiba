@@ -71,10 +71,7 @@
     {
       "nombre": "Air Canada",
       "vuelos": [
-        "1854",
-        "1874",
-        "1808",
-        "1814"
+        "1364"
       ],
       "icono": "leaf",
       "color": "#D82F2F",
