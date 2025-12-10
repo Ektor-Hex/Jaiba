@@ -19,7 +19,7 @@
         "4212",
         "7240",
         "7446",
-        "9360"
+        "9362"
       ],
       "icono": "airplane-takeoff",
       "color": "#7BC143",
@@ -81,7 +81,8 @@
       "nombre": "Westjet Airlines",
       "vuelos": [
         "2034",
-        "2320"
+        "2320", 
+        "2163"
       ],
       "icono": "weather-partly-cloudy",
       "color": "#0F5CA2",
