@@ -1,154 +1,87 @@
 {
   "aerolineas": [
     {
-      "nombre": "Delta Airlines",
-      "vuelos": [
-        "579",
-        "608",
-        "1772",
-        "1773",
-        "1892"
-      ],
-      "icono": "airplane",
-      "color": "#E31837",
-      "tipo": "internacionales"
-    },
-    {
       "nombre": "Viva",
-      "vuelos": [
-        "4212",
-        "7240",
-        "7446",
-        "9362"
-      ],
+      "vuelos": ["4212", "7240", "9362"],
       "icono": "airplane-takeoff",
       "color": "#7BC143",
       "tipo": "nacionales"
     },
     {
-      "nombre": "Air Transat",
-      "vuelos": [
-        "620",
-        "340"
-      ],
-      "icono": "earth",
-      "color": "#2F6EB6",
-      "tipo": "internacionales"
-    },
-    {
-      "nombre": "Aeroméxico Connect",
-      "vuelos": [
-        "592",
-        "594"
-      ],
-      "icono": "airplane-marker",
-      "color": "#0B2343",
-      "tipo": "nacionales"
-    },
-    {
-      "nombre": "American Airlines",
-      "vuelos": [
-        "163",
-        "172",
-        "342"
-      ],
-      "icono": "flag-outline",
-      "color": "#0078D2",
-      "tipo": "internacionales"
-    },
-    {
-      "nombre": "Mexicana",
-      "vuelos": [
-        "1780",
-        "1781",
-        "1782",
-        "1783"
-      ],
-      "icono": "white-balance-sunny",
-      "color": "#006341",
-      "tipo": "nacionales"
-    },
-    {
-      "nombre": "Air Canada",
-      "vuelos": [
-        "1364"
-      ],
-      "icono": "leaf",
-      "color": "#D82F2F",
-      "tipo": "internacionales"
-    },
-    {
-      "nombre": "Westjet Airlines",
-      "vuelos": [
-        "2034",
-        "2320", 
-        "2163"
-      ],
-      "icono": "weather-partly-cloudy",
-      "color": "#0F5CA2",
-      "tipo": "internacionales"
-    },
-    {
-      "nombre": "United Airlines",
-      "vuelos": [
-        "365",
-        "366",
-        "1600",
-        "1601",
-        "1950",
-        "2031"
-      ],
-      "icono": "cloud-upload-outline",
-      "color": "#002244",
-      "tipo": "internacionales"
-    },
-    {
-      "nombre": "JetBlue Airways",
-      "vuelos": [
-        "2879"
-      ],
-      "icono": "airplane-alert",
-      "color": "#0033A0",
-      "tipo": "internacionales"
-    },
-    {
       "nombre": "Volaris",
-      "vuelos": [
-        "1400",
-        "4054"
-      ],
+      "vuelos": ["1400"],
       "icono": "airplane-landing",
       "color": "#9B26B6",
       "tipo": "nacionales"
     },
     {
-      "nombre": "Sunwing Airlines",
-      "vuelos": [
-        "2789",
-        "2589",
-        "2189",
-        "9290"
-      ],
-      "icono": "weather-sunset",
-      "color": "#F9A51A",
+      "nombre": "Aeroméxico",
+      "vuelos": ["594"],
+      "icono": "airplane",
+      "color": "#0B2343",
+      "tipo": "nacionales"
+    },
+    {
+      "nombre": "Aeroméxico Connect",
+      "vuelos": ["592", "594"],
+      "icono": "airplane-marker",
+      "color": "#0B2343",
+      "tipo": "nacionales"
+    },
+    {
+      "nombre": "Mexicana",
+      "vuelos": ["1780", "1782", "2780", "2782"],
+      "icono": "white-balance-sunny",
+      "color": "#006341",
+      "tipo": "nacionales"
+    },
+    {
+      "nombre": "American Airlines",
+      "vuelos": ["172", "163"],
+      "icono": "flag-outline",
+      "color": "#0078D2",
       "tipo": "internacionales"
     },
     {
-      "nombre": "Avianca",
-      "vuelos": [
-        "94"
-      ],
-      "icono": "airplane-clock",
-      "color": "#D3212C",
+      "nombre": "United Airlines",
+      "vuelos": ["365", "1600", "2031"],
+      "icono": "cloud-upload-outline",
+      "color": "#002244",
       "tipo": "internacionales"
     },
     {
-      "nombre": "Discover Airlines",
-      "vuelos": [
-        "12"
-      ],
-      "icono": "rocket-launch-outline",
-      "color": "#FFB612",
+      "nombre": "Delta Airlines",
+      "vuelos": ["1773"],
+      "icono": "airplane",
+      "color": "#E31837",
+      "tipo": "internacionales"
+    },
+    {
+      "nombre": "Air Canada",
+      "vuelos": ["1364", "1366"],
+      "icono": "leaf",
+      "color": "#D82F2F",
+      "tipo": "internacionales"
+    },
+    {
+      "nombre": "WestJet Airlines",
+      "vuelos": ["2026", "2162", "2968"],
+      "icono": "weather-partly-cloudy",
+      "color": "#0F5CA2",
+      "tipo": "internacionales"
+    },
+    {
+      "nombre": "JetBlue Airways",
+      "vuelos": ["2879"],
+      "icono": "airplane-alert",
+      "color": "#0033A0",
+      "tipo": "internacionales"
+    },
+    {
+      "nombre": "Air Transat",
+      "vuelos": ["340", "620"],
+      "icono": "earth",
+      "color": "#2F6EB6",
       "tipo": "internacionales"
     }
   ]
