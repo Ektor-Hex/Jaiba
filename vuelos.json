@@ -15,13 +15,6 @@
       "tipo": "nacionales"
     },
     {
-      "nombre": "Aeroméxico",
-      "vuelos": ["594"],
-      "icono": "airplane",
-      "color": "#0B2343",
-      "tipo": "nacionales"
-    },
-    {
       "nombre": "Aeroméxico Connect",
       "vuelos": ["592", "594"],
       "icono": "airplane-marker",
