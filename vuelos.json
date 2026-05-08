@@ -30,7 +30,7 @@
     },
     {
       "nombre": "American Airlines",
-      "vuelos": ["172", "163"],
+      "vuelos": ["3946 ", "172", "163"],
       "icono": "flag-outline",
       "color": "#0078D2",
       "tipo": "internacionales"
