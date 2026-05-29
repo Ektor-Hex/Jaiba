@@ -9,7 +9,7 @@
     },
     {
       "nombre": "Volaris",
-      "vuelos": ["1400"],
+      "vuelos": ["1400", "3312"],
       "icono": "airplane-landing",
       "color": "#9B26B6",
       "tipo": "nacionales"
